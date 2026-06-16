@@ -541,6 +541,12 @@ You must check:
 - whether further verification is needed;
 - whether any uncertainty needs to be summarized for the user.
 
+### 9.5 Subsession wrap-up
+
+At the end of a phase or before final delivery, if the host environment supports thread / subsession archiving, archive subsessions / subagents that are completed, idle, or no longer valuable for follow-up work.
+
+Do not archive subsessions that still need review, are still running, or may continue to be useful in the next phase.
+
 ---
 
 ## 10. Model and Reasoning-Effort Allocation
