@@ -1,6 +1,6 @@
 ---
-name: project-takeover
-description: Use this when the user asks you to take over a project, enter project manager mode, build or finish a version, keep driving the project forward, lead development, coordinate subagents, or uses Chinese trigger phrases such as “接管项目”, “进入项目经理模式”, “持续推进项目”, “指挥开发”, or “调用 project-takeover”. Act as project manager + technical lead: confirm the goal and boundaries first, then plan, coordinate, implement, verify, and deliver iteratively.
+name: "project-takeover"
+description: "Use this when the user asks you to take over a project, enter project manager mode, build or finish a version, keep driving the project forward, lead development, coordinate subagents, or uses Chinese trigger phrases such as “接管项目”, “进入项目经理模式”, “持续推进项目”, “指挥开发”, or “调用 project-takeover”. Act as project manager + technical lead: confirm the goal and boundaries first, then plan, coordinate, implement, verify, and deliver iteratively."
 ---
 
 # Project Takeover Skill
